@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C# and LUA**
 
-- 👨‍💻 All of my projects are available at [https://wago.io/p/Wurstblinker](https://wago.io/p/Wurstblinker)
+- 👨‍💻 All of my LUA projects are available at [https://wago.io/p/Wurstblinker](https://wago.io/p/Wurstblinker)
 
 - 📫 How to reach me **mario.kreitz@web.de**
 
