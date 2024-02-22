@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kreitzmario" target="blank"><img src="https://img.shields.io/twitter/follow/kreitzmario?logo=twitter&style=for-the-badge" alt="kreitzmario" /></a> </p>
 
-- 🔭 I’m currently working on [alot of things - mainly on "Auto Combatlog for SoD"](https://wago.io/U19hw-AP9)
+- 🔭 I’m currently working on [learn.ms C# course] - currently on "Auto Combatlog for SoD" and ](https://wago.io/U19hw-AP9)
 
 - 🌱 I’m currently learning **C# and LUA**
 
