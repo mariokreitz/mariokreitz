@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/kreitzmario" target="blank"><img src="https://img.shields.io/twitter/follow/kreitzmario?logo=twitter&style=for-the-badge" alt="kreitzmario" /></a> </p>
 
-- 🔭 I’m currently working on "learn.ms C# course" - [currently on "Auto Combatlog for SoD"](https://wago.io/U19hw-AP9)
+- 🔭 I’m currently working on some projects from learn.ms C# course - and ["Auto Combatlog for SoD"](https://wago.io/U19hw-AP9)
 
-- 🌱 I’m currently learning **C# and LUA**
+- 🌱 I’m currently learning **C# HTML,CSS,JS and LUA**
 
 - 👨‍💻 All of my LUA projects are available at [https://wago.io/p/Wurstblinker](https://wago.io/p/Wurstblinker)
 
