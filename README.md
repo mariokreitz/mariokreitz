@@ -6,12 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/kreitzmario" target="blank"><img src="https://img.shields.io/twitter/follow/kreitzmario?logo=twitter&style=for-the-badge" alt="kreitzmario" /></a> </p>
 
-- 🔭 I’m currently working on [learn.ms C# with .Net Framwork learnpath](https://learn.microsoft.com/de-de/users/mariokreitz-2001/transcript)
-<br> along with [freecodecamp.org](https://www.freecodecamp.org/MarioKreitz)
+- 🔭 I’m currently working on [learn.ms ASP.NET Core for beginners](https://learn.microsoft.com/de-de/users/mariokreitz-2001/transcript)
 
-- 🌱 I’m currently learning **C#, HTML/CSS/JS with react and bootstrap**
+- 🌱 I’m currently learning **C#, HTML/CSS/JS with Angular**
 
-- 👨‍💻 All of my LUA projects are available at [https://wago.io/p/Wurstblinker](https://wago.io/p/Wurstblinker)
+- 🤝 I have successfully completed [learn.ms C# with .Net Framwork learnpath](https://www.freecodecamp.org/certification/MarioKreitz/foundational-c-sharp-with-microsoft)
+
+- 👨‍💻 All of my projects are available at [https://wago.io/p/Wurstblinker](https://wago.io/p/Wurstblinker)
 
 - 📫 How to reach me **mario.kreitz@web.de**
 
