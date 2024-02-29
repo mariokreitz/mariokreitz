@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kreitzmario" target="blank"><img src="https://img.shields.io/twitter/follow/kreitzmario?logo=twitter&style=for-the-badge" alt="kreitzmario" /></a> </p>
 
-- 🔭 I’m currently working on [learn.ms ASP.NET Core for beginners](https://learn.microsoft.com/de-de/users/mariokreitz-2001/transcript)
+- 🔭 I’m currently working on [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 - 🌱 I’m currently learning **C#, HTML/CSS/JS with Angular**
 
