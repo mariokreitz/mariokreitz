@@ -12,7 +12,7 @@
 
 - 🤝 I have successfully completed [learn.ms C# with .Net Framwork learnpath](https://www.freecodecamp.org/certification/MarioKreitz/foundational-c-sharp-with-microsoft)
 
-- 👨‍💻 All of my projects are available at [https://wago.io/p/Wurstblinker](https://wago.io/p/Wurstblinker)
+- 👨‍💻 All of my LUA projects are available at [https://wago.io/p/Wurstblinker](https://wago.io/p/Wurstblinker)
 
 - 📫 How to reach me **mario.kreitz@web.de**
 
