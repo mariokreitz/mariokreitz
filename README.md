@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
-- 🌱 I’m currently learning **C#, HTML/CSS/JS**
+- 🌱 I’m currently learning **HTML/CSS/JS**
 
 - 🤝 I have successfully completed [learn.ms C# with .Net Framwork learnpath](https://www.freecodecamp.org/certification/MarioKreitz/foundational-c-sharp-with-microsoft)
 
