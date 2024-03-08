@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kreitzmario" target="blank"><img src="https://img.shields.io/twitter/follow/kreitzmario?logo=twitter&style=for-the-badge" alt="kreitzmario" /></a> </p>
 
-- 🔭 I’m currently working on [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- 🔭 I’m currently working on [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 
 - 🌱 I’m currently learning **HTML/CSS/JS**
 
