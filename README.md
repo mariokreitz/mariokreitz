@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **HTML/CSS/JS**
 
-- 🤝 I have successfully completed [learn.ms C# with .Net Framwork learnpath](https://www.freecodecamp.org/certification/MarioKreitz/foundational-c-sharp-with-microsoft)
+- 🤝 I have successfully completed [Learnpaths from freecodecamp.org](https://www.freecodecamp.org/MarioKreitz)
 
 - 👨‍💻 All of my LUA projects are available at [https://wago.io/p/Wurstblinker](https://wago.io/p/Wurstblinker)
 
