@@ -12,7 +12,9 @@
 
 - 🤝 I have successfully completed [Learnpaths from freecodecamp.org](https://www.freecodecamp.org/MarioKreitz)
 
-- 👨‍💻 All of my LUA projects are available at [https://wago.io/p/Wurstblinker](https://wago.io/p/Wurstblinker)
+- 👨‍💻 All of my projects are available at [https://mariokreitz.github.io/#projects](https://mariokreitz.github.io/#projects)
+
+- 📝 I regularly write articles on [https://mariokreitz.github.io/#welcome-section](https://mariokreitz.github.io/#welcome-section)
 
 - 📫 How to reach me **mario.kreitz@web.de**
 
@@ -23,7 +25,7 @@
 <a href="https://twitter.com/kreitzmario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kreitzmario" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8274106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8274106" height="30" width="40" /></a>
 <a href="https://instagram.com/marioisthaltso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marioisthaltso" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCE0KbvMQpKeQGkslziAvqBg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uce0kbvmqpkeqgkslziavqbg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uce0kbvmqpkeqgkslziavqbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uce0kbvmqpkeqgkslziavqbg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
