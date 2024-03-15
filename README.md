@@ -12,11 +12,7 @@
 
 - 🤝 I have successfully completed [Learnpaths from freecodecamp.org](https://www.freecodecamp.org/MarioKreitz)
 
-- 📄 My LUA projects for World of Warcraft [https://wago.io/p/Wurstblinker](https://wago.io/p/Wurstblinker)
-
-- 👨‍💻 All of my projects are available at [https://mariokreitz.github.io/#projects](https://mariokreitz.github.io/#projects)
-
-- 📝 I regularly write articles on [https://mariokreitz.github.io/#welcome-section](https://mariokreitz.github.io/#welcome-section)
+- 👨‍💻 All of my projects are available at [https://mariokreitz.github.io/](https://mariokreitz.github.io/)
 
 - 📫 How to reach me **mario.kreitz@web.de**
 
