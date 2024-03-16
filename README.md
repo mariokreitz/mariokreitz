@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 
-- 🌱 I’m currently learning **HTML/CSS/JS**
+- 🌱 I’m currently learning **Frontend**
 
 - 🤝 I have successfully completed [Learnpaths from freecodecamp.org](https://www.freecodecamp.org/MarioKreitz)
 
