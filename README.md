@@ -18,8 +18,6 @@
 
 - ⚡ Fun fact **I like dad-jokes**
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c6a1f497-1767-4109-8dd7-6bafda183e40/deploy-status)](https://app.netlify.com/sites/palindrom-pruefer/deploys)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kreitzmario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kreitzmario" height="30" width="40" /></a>
