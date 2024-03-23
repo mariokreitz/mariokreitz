@@ -19,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.freecodecamp.org/MarioKreitz" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/9892522?s=200&v=4" alt="mario" height="30" width="40" /></a>
+<a href="https://learn.microsoft.com/de-de/users/mariokreitz-2001/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="mario" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
