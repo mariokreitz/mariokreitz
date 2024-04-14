@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariokreitz&label=Profile%20views&color=0e75b6&style=flat" alt="mariokreitz" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+- 🔭 I’m currently working on [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
 - 🌱 I’m currently learning **React, partially Redux**
 
