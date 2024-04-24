@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariokreitz&label=Profile%20views&color=0e75b6&style=flat" alt="mariokreitz" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+- 🔭 I’m currently working on [Relational Database](https://www.freecodecamp.org/learn/relational-database/)
 
-- 🌱 I’m currently learning **React, partially Redux**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 🤝 I have successfully completed [Learnpaths from freecodecamp.org](https://www.freecodecamp.org/MarioKreitz)
 
