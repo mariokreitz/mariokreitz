@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Bestellapp](https://github.com/mariokreitz/Bestellapp)
+- 🔭 I’m currently working on [simple-quizz-app](https://github.com/mariokreitz/simple-quizz-app)
 
 - 🌱 I’m currently learning **Developer Akademie - Intensivkurs, NextJS**
 
