@@ -1,21 +1,27 @@
-<h1 align="center">Hi 👋, I'm Mario</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h1 align="center">Hello, I'm Mario! 👋</h1>
+<h3 align="center">Frontend Developer with Fullstack Ambitions 🌍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariokreitz&label=Profile%20views&color=0e75b6&style=flat" alt="mariokreitz" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [pokedex-v2](https://github.com/mariokreitz/pokedex-v2)
+### About Me
+I'm a frontend web developer from Germany with a passion for building responsive, engaging interfaces. Currently, I'm on my journey to becoming a **fullstack web developer**, diving into both frontend and backend technologies.
 
-- 🌱 I’m currently learning **Angular**
+### What I'm Working On
+- 🔭 **Building**: Enhancing my [Pokedex v2](https://github.com/mariokreitz/pokedex-v2) project.
+- 🌱 **Learning**: Focused on **Angular**, especially:
+  - **Services & Observables**: Managing async data with reactive programming.
+  - **Localization**: Making apps multilingual and globally accessible.
+  - **Signals**: Exploring real-time updates in state management.
 
-- 👨‍💻 All of my projects are available at [https://mario-kreitz.dev/](https://mario-kreitz.dev/)
+- 👨‍💻 👨‍💻 Portfolio: You can explore all my projects and demos on  [https://mario-kreitz.dev/](https://mario-kreitz.dev/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about: React, Angular, or general frontend topics—especially building scalable, maintainable codebases.
 
-- 📫 How to reach me **mario.kreitz@web.de**
+- 📫 Contact me: If you have any questions, ideas, or opportunities, shoot me an email at mario.kreitz@web.de.
 
-- ⚡ Fun fact **I like dad jokes**
+- ⚡ Fun fact: I’m a huge fan of dad jokes—don’t hesitate to ask for one!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
