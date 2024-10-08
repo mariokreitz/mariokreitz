@@ -9,7 +9,7 @@ I'm a frontend web developer from Germany with a passion for building responsive
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### What I'm Working On
-- 🔭 **Building**: Enhancing my [Pokedex v2](https://github.com/mariokreitz/pokedex-v2) project.
+- 🔭 **Building**: Collaborating on the [JOIN](https://github.com/mariokreitz/JOIN) project alongside two other developers in a Colab environment. 
 - 🌱 **Learning**: Focused on **Angular**, especially:
   - **Services & Observables**: Managing async data with reactive programming.
   - **Localization**: Making apps multilingual and globally accessible.
