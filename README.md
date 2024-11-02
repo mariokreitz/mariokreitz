@@ -1,37 +1,68 @@
-<h1 align="center">Hello, I'm Mario! 👋</h1>
-<h3 align="center">Frontend Developer with Fullstack Ambitions 🌍</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariokreitz&label=Profile%20views&color=0e75b6&style=flat" alt="mariokreitz" /> </p>
-
-### About Me
-I'm a frontend web developer from Germany with a passion for building responsive, engaging interfaces. Currently, I'm on my journey to becoming a **fullstack web developer**, diving into both frontend and backend technologies.
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-### What I'm Working On
-- 🔭 **Building**: Collaborating on the [JOIN](https://github.com/mariokreitz/JOIN) project alongside two other developers in a Colab environment. 
-- 🌱 **Learning**: Focused on **Angular**, especially:
-  - **Services & Observables**: Managing async data with reactive programming.
-  - **Localization**: Making apps multilingual and globally accessible.
-  - **Signals**: Exploring real-time updates in state management.
-
-- 👨‍💻 Portfolio: You can explore all my projects and demos on  [https://mario-kreitz.dev/](https://mario-kreitz.dev/)
-
-- 💬 Ask me about: React, Angular, or general frontend topics—especially building scalable, maintainable codebases.
-
-- 📫 Contact me: If you have any questions, ideas, or opportunities, shoot me an email at mario.kreitz@web.de.
-
-- ⚡ Fun fact: I’m a huge fan of dad jokes—don’t hesitate to ask for one!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mariokreitz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mariokreitz" height="30" width="40" /></a>
-<a href="https://dev.to/mariokreitz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mariokreitz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8274106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8274106" height="30" width="40" /></a>
+<h1 align="center">Hey there, I'm Mario Kreitz! 👋</h1>
+<p align="center">
+  🚀 Aspiring Frontend Developer | Future Fullstack Developer 🌐
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariokreitz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=mariokreitz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+### 👨‍💻 About Me
+
+- 🔭 **Currently Working On:** Expanding my frontend skills with a focus on **Angular** and diving into **Object-Oriented Programming (OOP)** in **JavaScript** and **TypeScript**.
+- 🎮 **Upcoming Project:** Developing a **browser-based game**—stay tuned for updates!
+- 💼 **Recent Project:** **[JOIN Web App](https://github.com/your-project-link)**  
+  A task management app designed for visualizing task statuses and responsibilities. Built with **HTML, CSS, JavaScript, Git, and Firebase** as part of my training program, it honed my skills in building responsive, dynamic applications.
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+#### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+#### Backend (Learning)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+
+#### Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-181717?style=flat&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+---
+
+### 🌱 Currently Exploring
+
+- **Object-Oriented Programming (OOP)** in **JavaScript** and **TypeScript**
+- Expanding my **Angular** and **SCSS** expertise
+- Building interactive web-based applications
+
+---
+
+### 👀 Looking to Explore
+
+- **Python & Django** for backend development
+- **Node.js** for automation
+
+---
+
+### 📫 Let's Connect!
+
+<p align="left">
+  <a href="https://mario-kreitz.dev/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:mario.kreitz@web.de" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
