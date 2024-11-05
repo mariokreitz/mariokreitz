@@ -9,7 +9,7 @@
 
 - 🔭 **Currently Working On:** Expanding my frontend skills with a focus on **Angular** and diving into **Object-Oriented Programming (OOP)** in **JavaScript** and **TypeScript**.
 - 🎮 **Upcoming Project:** Developing a **browser-based game**—stay tuned for updates!
-- 💼 **Recent Project:** **[JOIN Web App](https://github.com/your-project-link)**  
+- 💼 **Recent Project:** **[JOIN Web App](https://github.com/mariokreitz/JOIN)**  
   A task management app designed for visualizing task statuses and responsibilities. Built with **HTML, CSS, JavaScript, Git, and Firebase** as part of my training program, it honed my skills in building responsive, dynamic applications.
 
 ---
