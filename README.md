@@ -7,8 +7,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently Working On:** Expanding my frontend skills with a focus on **Angular** and diving into **Object-Oriented Programming (OOP)** in **JavaScript** and **TypeScript**.
-- 🎮 **Upcoming Project:** Developing a **browser-based game**—stay tuned for updates!
+- 🔭 **Currently Working On:** Expanding my frontend skills with a focus on **Angular** and diving deeper into **Object-Oriented Programming (OOP)** in **JavaScript** and **TypeScript**.
+- 🎮 **Current Project:** **[Shadowhound](https://github.com/mariokreitz/Shadowhound)**  
+  A browser-based game programmed in **TypeScript** using **OOP** principles. Stay tuned for more updates as I develop this exciting project!
 - 💼 **Recent Project:** **[JOIN Web App](https://github.com/mariokreitz/JOIN)**  
   A task management app designed for visualizing task statuses and responsibilities. Built with **HTML, CSS, JavaScript, Git, and Firebase** as part of my training program, it honed my skills in building responsive, dynamic applications.
 
