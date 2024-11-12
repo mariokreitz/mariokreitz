@@ -35,6 +35,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
+#### DevOps & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+- Working with **Linux** and **Debian** on Raspberry Pi, setting up **Ubuntu Server**, and configuring **Nginx** to explore web server capabilities and improve deployment skills.
+
 #### Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-181717?style=flat&logo=github&logoColor=white)
@@ -42,11 +49,13 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![WinSCP](https://img.shields.io/badge/WinSCP-0080FF?style=flat&logo=winscp&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-023232?style=flat&logo=putty&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
 ---
 
 ### 🌱 Currently Exploring
-
 - **Object-Oriented Programming (OOP)** in **JavaScript** and **TypeScript**
 - Expanding my **Angular** and **SCSS** expertise
 - Building interactive web-based applications
@@ -54,7 +63,6 @@
 ---
 
 ### 👀 Looking to Explore
-
 - **Python & Django** for backend development
 - **Node.js** for automation
 
@@ -67,4 +75,3 @@
   <a href="https://www.linkedin.com/in/mario-kreitz-70b68b336/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mario.kreitz@web.de" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
-
