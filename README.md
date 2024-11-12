@@ -41,7 +41,6 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-- Working with **Linux** and **Debian** on Raspberry Pi, setting up **Ubuntu Server**, and configuring **Nginx** to explore web server capabilities and improve deployment skills.
 
 #### Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -59,7 +58,7 @@
 ### 🌱 Currently Exploring
 - **Object-Oriented Programming (OOP)** in **JavaScript** and **TypeScript**
 - Expanding my **Angular** and **SCSS** expertise
-- Building interactive web-based applications
+- Working with **Linux** and **Debian** on Raspberry Pi, setting up **Ubuntu Server**, and configuring **Nginx** to explore web server capabilities and improve deployment skills.
 
 ---
 
