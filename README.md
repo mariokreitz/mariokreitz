@@ -39,7 +39,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-00CCFF?style=flat&logo=rest&logoColor=white)
 
 #### DevOps & Systems (Learning)
