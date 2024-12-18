@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Mario Kreitz! 👋</h1>
 <p align="center">
-  🚀 Aspiring Frontend Developer | Future Fullstack Developer 🌐
+  🚀 Frontend Developer | Future Fullstack Developer 🌐
 </p>
 
 ---
