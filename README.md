@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently Working On:** Expanding my frontend skills with a focus on **Angular** and diving deeper into **Object-Oriented Programming (OOP)** in **JavaScript** and **TypeScript**.
-- 🎮 **Current Project:** **[Shadowhound](https://github.com/mariokreitz/Shadowhound)**  
+- 🎮 **Latest Project:** **[Shadowhound](https://github.com/mariokreitz/Shadowhound)**  
   A browser-based game programmed in **TypeScript** using **OOP** principles. Stay tuned for more updates as I develop this exciting project!
 - 💼 **Recent Project:** **[JOIN Web App](https://github.com/mariokreitz/JOIN)**  
   A task management app designed for visualizing task statuses and responsibilities. Built with **HTML, CSS, JavaScript, Git, and Firebase** as part of my training program, it honed my skills in building responsive, dynamic applications.
@@ -60,6 +60,7 @@
 ![WinSCP](https://img.shields.io/badge/WinSCP-0080FF?style=flat&logo=winscp&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-023232?style=flat&logo=putty&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
@@ -71,8 +72,12 @@
 ---
 
 ### 👀 Looking to Explore
-- **Python & Django** for backend development
-- **Node.js** for automation
+- **Express** for building REST APIs and backend applications  
+- Advanced **Node.js** concepts for scalable server-side development  
+- **MongoDB** for database design and integration  
+- Deployment workflows using **Docker** and **Nginx**  
+- Backend testing and API workflows with **Postman**
+
 
 ---
 
