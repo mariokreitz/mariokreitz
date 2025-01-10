@@ -1,15 +1,15 @@
 <h1 align="center">Hey there, I'm Mario Kreitz! 👋</h1>
 <p align="center">
-  🚀 Frontend Developer | Future Fullstack Developer 🌐
+  🚀 Fullstack Developer 🌐
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently Working On:** Expanding my frontend skills with a focus on **Angular** and diving deeper into **Object-Oriented Programming (OOP)** in **JavaScript** and **TypeScript**.
-- 🎮 **Latest Project:** **[Shadowhound](https://github.com/mariokreitz/Shadowhound)**  
-  A browser-based game programmed in **TypeScript** using **OOP** principles. Stay tuned for more updates as I develop this exciting project!
+- 🔭 **Currently Working On:** Expanding my frontend skills with a focus on **Angular** and **Material Design**, while deepening my knowledge of **RxJS** and **full-stack development**.
+- 🎮 **Latest Project:** **[UserSphere](https://github.com/mariokreitz/UserSphere)**  
+  A CRM application built with **Angular** and **Material Design**, featuring role-based dashboards, user management, profile settings, and statistics. This project showcases my skills in frontend development and integrates authentication with **JWT**.
 - 💼 **Recent Project:** **[JOIN Web App](https://github.com/mariokreitz/JOIN)**  
   A task management app designed for visualizing task statuses and responsibilities. Built with **HTML, CSS, JavaScript, Git, and Firebase** as part of my training program, it honed my skills in building responsive, dynamic applications.
 
