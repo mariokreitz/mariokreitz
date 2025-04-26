@@ -1,90 +1,166 @@
-<h1 align="center">Hey there, I'm Mario Kreitz! 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mario%20Kreitz&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</div>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Developer;Angular+Enthusiast;JavaScript+%26+TypeScript+Developer" alt="Typing SVG" />
+</h3>
+
 <p align="center">
-  🚀 Fullstack Developer 🌐
+  <a href="https://mario-kreitz.dev/">
+    <img src="https://img.shields.io/badge/Website-mario--kreitz.dev-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/mario-kreitz-70b68b336/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mario.kreitz@web.de">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mariokreitz&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
----
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=mariokreitz&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+</div>
 
-### 👨‍💻 About Me
+## ⚡ Tech Stack
 
-- 🔭 **Currently Working On:** Expanding my frontend skills with a focus on **Angular** and **Material Design**, while deepening my knowledge of **RxJS** and **full-stack development**.
-- 🎮 **Latest Project:** **[UserSphere](https://github.com/mariokreitz/UserSphere)**  
-  A CRM application built with **Angular** and **Material Design**, featuring role-based dashboards, user management, profile settings, and statistics. This project showcases my skills in frontend development and integrates authentication with **JWT**.
-- 💼 **Recent Project:** **[JOIN Web App](https://github.com/mariokreitz/JOIN)**  
-  A task management app designed for visualizing task statuses and responsibilities. Built with **HTML, CSS, JavaScript, Git, and Firebase** as part of my training program, it honed my skills in building responsive, dynamic applications.
+<table align="center">
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <div align="center">  
+        <a href="https://angular.io/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" />
+        </a>  
+        <a href="https://reactjs.org/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
+        </a>  
+        <a href="https://nextjs.org/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" />
+        </a>  
+        <a href="https://www.javascript.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
+        </a>  
+        <a href="https://www.typescriptlang.org/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
+        </a>  
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
+        </a>  
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />
+        </a>  
+        <a href="https://www.tailwindcss.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
+        </a>  
+        <a href="https://getbootstrap.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />
+        </a>
+        <a href="https://www.chartjs.org/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="40" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend & DevOps</h3>
+      <div align="center">  
+        <a href="https://nodejs.org/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />
+        </a>  
+        <a href="https://expressjs.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" />
+        </a>  
+        <a href="https://www.mongodb.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />
+        </a>  
+        <a href="https://firebase.google.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" />
+        </a>  
+        <a href="https://www.docker.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />
+        </a>  
+        <a href="https://www.nginx.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" />
+        </a>  
+        <a href="https://github.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
+        </a>  
+        <a href="https://www.linux.org/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />
+        </a>  
+        <a href="https://www.gnu.org/software/bash/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Other Tools</h3>
+      <div align="center">  
+        <a href="https://www.figma.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" />
+        </a>  
+        <a href="https://www.arduino.cc/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="40" />
+        </a>  
+        <a href="https://www.raspberrypi.org/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="40" />
+        </a>  
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" />
+        </a>  
+        <a href="https://dotnet.microsoft.com/download" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="40" />
+        </a>  
+        <a href="https://www.postman.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" />
+        </a>
+        <a href="https://github.com/features/actions" target="_blank">
+          <img src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" alt="GitHub Actions" height="40" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
----
+## 📊 Stats
 
-### 🛠️ Technologies & Tools
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mariokreitz&show_icons=true&bg_color=00000000&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&hide_border=true" height="165" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariokreitz&layout=compact&bg_color=00000000&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&hide_border=true" height="165" />
+  </a>
+</div>
 
-#### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariokreitz&background=00000000&ring=58a6ff&fire=58a6ff&currStreakNum=adbac7&sideNums=adbac7&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=adbac7&hide_border=true" />
+  </a>
+</div>
 
-#### Data Visualization
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+## ⏱️ WakaTime Stats
 
-#### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<div align="center">
+<a href="https://wakatime.com/@c7f2fb60-5698-42ea-a123-ffd39c03fdbc"><img src="https://wakatime.com/badge/user/c7f2fb60-5698-42ea-a123-ffd39c03fdbc.svg" alt="Total time coded since Apr 26 2025" /></a>
+</div>
 
-#### Backend (Learning)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-00CCFF?style=flat&logo=rest&logoColor=white)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marioisthaltso&bg_color=00000000&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&hide_border=true&layout=compact" />
+  </a>
+</div>
 
-#### DevOps & Systems (Learning)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+## 🌱 Currently Learning
 
-#### Other Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-181717?style=flat&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![WinSCP](https://img.shields.io/badge/WinSCP-0080FF?style=flat&logo=winscp&logoColor=white)
-![PuTTY](https://img.shields.io/badge/PuTTY-023232?style=flat&logo=putty&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Advanced_Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Advanced Angular" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
 
----
-
-### 🌱 Currently Exploring
-- **Object-Oriented Programming (OOP)** in **JavaScript** and **TypeScript**
-- Expanding my **Angular** and **SCSS** expertise
-- Working with **Linux** and **Debian** on Raspberry Pi, setting up **Ubuntu Server**, and configuring **Nginx** to explore web server capabilities and improve deployment skills.
-
----
-
-### 👀 Looking to Explore
-- **Express** for building REST APIs and backend applications  
-- Advanced **Node.js** concepts for scalable server-side development  
-- **MongoDB** for database design and integration  
-- Deployment workflows using **Docker** and **Nginx**  
-- Backend testing and API workflows with **Postman**
-
-
----
-
-### 📫 Let's Connect!
-
-<p align="left">
-  <a href="https://mario-kreitz.dev/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mario-kreitz-70b68b336/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mario.kreitz@web.de" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</div>
