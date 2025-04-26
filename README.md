@@ -20,7 +20,13 @@
 </p>
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=mariokreitz&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+<a href="https://wakatime.com/@c7f2fb60-5698-42ea-a123-ffd39c03fdbc"><img src="https://wakatime.com/badge/user/c7f2fb60-5698-42ea-a123-ffd39c03fdbc.svg" alt="Total time coded since Apr 26 2025" /></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marioisthaltso&bg_color=00000000&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&hide_border=true&layout=compact" />
+  </a>
 </div>
 
 ## ⚡ Tech Stack
@@ -137,18 +143,6 @@
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariokreitz&background=00000000&ring=58a6ff&fire=58a6ff&currStreakNum=adbac7&sideNums=adbac7&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=adbac7&hide_border=true" />
-  </a>
-</div>
-
-## ⏱️ WakaTime Stats
-
-<div align="center">
-<a href="https://wakatime.com/@c7f2fb60-5698-42ea-a123-ffd39c03fdbc"><img src="https://wakatime.com/badge/user/c7f2fb60-5698-42ea-a123-ffd39c03fdbc.svg" alt="Total time coded since Apr 26 2025" /></a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marioisthaltso&bg_color=00000000&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&hide_border=true&layout=compact" />
   </a>
 </div>
 
