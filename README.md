@@ -17,16 +17,13 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=mariokreitz&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://wakatime.com/@c7f2fb60-5698-42ea-a123-ffd39c03fdbc"><img src="https://wakatime.com/badge/user/c7f2fb60-5698-42ea-a123-ffd39c03fdbc.svg?style=social" alt="Total time coded since Apr 26 2025" /></a>
 </p>
 
 <div align="center">
-<a href="https://wakatime.com/@c7f2fb60-5698-42ea-a123-ffd39c03fdbc"><img src="https://wakatime.com/badge/user/c7f2fb60-5698-42ea-a123-ffd39c03fdbc.svg" alt="Total time coded since Apr 26 2025" /></a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marioisthaltso&bg_color=00000000&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&hide_border=true&layout=compact" />
-  </a>
+  
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marioisthaltso)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 ## ⚡ Tech Stack
