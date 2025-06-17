@@ -28,46 +28,47 @@
 
 ## ⚡ Tech Stack
 
+<h3 align="left">Languages and Tools:</h3>
 <table align="center">
   <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Frontend</h3>
-      <div align="center">  
-        <a href="https://angular.io/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" />
-        </a>  
-        <a href="https://reactjs.org/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
-        </a>  
-        <a href="https://nextjs.org/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" />
-        </a>  
-        <a href="https://www.javascript.com/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
-        </a>  
-        <a href="https://www.typescriptlang.org/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
-        </a>  
-        <a href="https://www.w3schools.com/css/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
-        </a>  
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />
-        </a>  
-        <a href="https://www.tailwindcss.com/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
-        </a>  
-        <a href="https://getbootstrap.com/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />
-        </a>
-        <a href="https://www.chartjs.org/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="40" />
-        </a>
-      </div>
-    </td>
+<td valign="top" width="33%">
+  <h3 align="center">Frontend</h3>
+  <div align="center">  
+    <a href="https://material.angular.io/" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" alt="Angular Material" width="40" height="40"/>
+    </a>
+    <a href="https://angular.io" target="_blank" rel="noreferrer">
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank">
+      <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" />
+    </a>  
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
+    </a> 
+    <a href="https://www.javascript.com/" target="_blank">
+      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
+    </a>
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    </a>
+    <a href="https://www.tailwindcss.com/" target="_blank">
+      <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
+    </a>
+    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+      <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+    </a>
+    <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+    </a>
+  </div>
+</td>
     <td valign="top" width="33%">
       <h3 align="center">Backend & DevOps</h3>
       <div align="center">  
+        <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+        </a>
         <a href="https://nodejs.org/" target="_blank">
           <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />
         </a>  
@@ -76,24 +77,21 @@
         </a>  
         <a href="https://www.mongodb.com/" target="_blank">
           <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />
-        </a>  
-        <a href="https://firebase.google.com/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" />
-        </a>  
-        <a href="https://www.docker.com/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />
-        </a>  
-        <a href="https://www.nginx.com/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" />
-        </a>  
+        </a>
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+        </a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+        </a>
         <a href="https://github.com/" target="_blank">
           <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
-        </a>  
-        <a href="https://www.linux.org/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />
-        </a>  
-        <a href="https://www.gnu.org/software/bash/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />
+        </a>
+        <a href="https://www.postman.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" />
+        </a>
+        <a href="https://github.com/features/actions" target="_blank">
+          <img src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" alt="GitHub Actions" height="40" />
         </a>
       </div>
     </td>
@@ -102,9 +100,6 @@
       <div align="center">  
         <a href="https://www.figma.com/" target="_blank">
           <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" />
-        </a>  
-        <a href="https://www.arduino.cc/" target="_blank">
-          <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="40" />
         </a>  
         <a href="https://www.raspberrypi.org/" target="_blank">
           <img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="40" />
@@ -115,12 +110,6 @@
         <a href="https://dotnet.microsoft.com/download" target="_blank">
           <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="40" />
         </a>  
-        <a href="https://www.postman.com/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" />
-        </a>
-        <a href="https://github.com/features/actions" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" alt="GitHub Actions" height="40" />
-        </a>
       </div>
     </td>
   </tr>
@@ -141,15 +130,6 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariokreitz&background=00000000&ring=58a6ff&fire=58a6ff&currStreakNum=adbac7&sideNums=adbac7&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=adbac7&hide_border=true" />
   </a>
-</div>
-
-## 🌱 Currently Learning
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Advanced_Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Advanced Angular" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
 <div align="center">
