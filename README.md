@@ -7,8 +7,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://mario-kreitz.dev/">
-    <img src="https://img.shields.io/badge/Website-mario--kreitz.dev-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://kreitz-webdev.de/">
+    <img src="https://img.shields.io/badge/Website-kreitz--webdev.de-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/mario-kreitz-70b68b336/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
