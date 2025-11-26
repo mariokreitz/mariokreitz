@@ -87,7 +87,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mariokreitz&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mariokreitz&locale=de" alt="GitHub Streak" /></a>
 </div>
 
 ###
