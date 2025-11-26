@@ -6,6 +6,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mariokreitz.mariokreitz&"  />
+  <a href="https://wakatime.com/@c7f2fb60-5698-42ea-a123-ffd39c03fdbc"><img src="https://wakatime.com/badge/user/c7f2fb60-5698-42ea-a123-ffd39c03fdbc.svg" alt="Total time coded since Apr 26 2025" /></a>
 </div>
 
 ###
